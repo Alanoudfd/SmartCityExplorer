@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-classic
+langchain-text-splitters
+faiss-cpu
+tiktoken
+beautifulsoup4
+pandas
+python-dotenv
+ipykernel
